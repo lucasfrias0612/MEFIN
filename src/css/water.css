@@ -4,7 +4,7 @@ body {
 
 #water-container,
 #water {
-    background-image: url("http://s1.1zoom.net/big7/223/Water_Texture_435662.jpg");
+    background-image: url("../../res/img/Water_Texture.jpg");
     background-position: center bottom;
 }
 
